@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hellogit冲突");
         System.out.println("hellogit3!");
         System.out.println("push test");
+        System.out.println("push test2");
     }
 }
